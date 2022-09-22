@@ -1,0 +1,120 @@
+.recargacelular{
+
+    margin: 0 auto;width: 90%;display: flex;text-align: center;flex-wrap: wrap;
+}
+.recarganauta{
+
+    margin: 0 auto;width: 90%;display: flex;text-align: center;flex-wrap: wrap;
+}
+.pagonautam{
+
+    margin: 0 auto;width: 90%;display: flex;text-align: center;flex-wrap: wrap;
+}
+.pagonautah{
+
+    margin: 0 auto;width: 90%;display: flex;text-align: center;flex-wrap: wrap;
+}
+.precio{
+
+    color: violet;font-size: 50px;flex-wrap: wrap;
+}
+.titulo{
+
+    color: blue;flex-wrap: wrap;
+}
+.butt{
+
+    font-size: 25px;background-color: violet;
+}
+.logo{image-rendering:pixelated;}
+.columna1{
+
+    background: rgb(187, 185, 221);color: #333;border: 1px solid #333;margin: 0 auto;padding: 35px;
+    border-radius: 15px;box-shadow: 10px 10px 5px violet ;width: 25%;;flex-wrap: wrap;box-sizing: border-box
+}
+
+.columna2{
+
+    background: rgb(187, 185, 221);color: #333;border: 1px solid #333;margin: 0 auto;padding: 35px;
+    border-radius: 15px;box-shadow: 10px 10px 5px violet ;width: 25%;;flex-wrap: wrap;box-sizing: border-box
+}
+
+.columna3{
+
+    background: rgb(187, 185, 221);color: #333;border: 1px solid #333;margin: 0 auto;padding: 35px;
+    border-radius: 15px;box-shadow: 10px 10px 5px violet ;width: 25%;flex-wrap: wrap;box-sizing: border-box;
+}
+
+.columna4{
+
+    background: rgb(187, 185, 221);color: #333;border: 1px solid #333;margin: 0 auto;padding: 35px;
+    border-radius: 15px;box-shadow: 10px 10px 5px violet ;width: 25%;flex-wrap: wrap;box-sizing: border-box
+}
+.tit{font-size: 60px;color: violet;}
+.btn-precio{
+
+    background: violet;color: blue;font-size: 20px;display: block; border-radius: 7px;padding: 10px 30px;
+    text-decoration: none;}
+.btn-precio:hover{background: blue;color: violet;font-size: 20px;display: block; border-radius: 7px;padding: 10px 30px;
+    text-decoration: none; flex-wrap: wrap;}
+
+    .parr{color: blue;font-style:oblique;display: block;}
+    .parr1{ background: violet;color: blue;font-size: 20px;display: block; border-radius: 7px;padding: 10px 30px;
+        text-decoration: none; flex-wrap: wrap;}
+
+
+
+
+@media (max-width: 950px) {
+
+
+    .btn-precio{
+
+        background: violet;color: blue;font-size: 17px;display: block; border-radius: 7px;padding: 10px;
+        text-decoration: none;}
+        .parr1{ background: violet;color: blue;font-size: 17px;display: block;
+            border-radius: 7px;padding: 10px;
+           text-decoration: none; flex-wrap: wrap;}
+           .parr{color: blue;font-style:oblique;display: block;}
+        .btn-precio:hover{background: blue;color: violet;font-size: 17px;display: block;
+             border-radius: 7px;padding: 10px;
+            text-decoration: none; flex-wrap: wrap;}
+            
+
+
+
+}
+
+@media (max-width: 792px) {
+
+
+    .btn-precio{
+
+        background: violet;color: blue;font-size: 13px;display: block; border-radius: 7px;padding: 10px;
+        text-decoration: none;}
+        .parr1{ background: violet;color: blue;font-size: 13px;display: block;
+            border-radius: 7px;padding: 10px;
+           text-decoration: none; flex-wrap: wrap;}
+           .parr{color: blue;font-style:oblique;display: block;}
+        .btn-precio:hover{background: blue;color: violet;font-size: 13px;display: block;
+             border-radius: 7px;padding: 10px;
+            text-decoration: none; flex-wrap: wrap;}
+            @media (max-width: 672px) {
+
+
+                .btn-precio{
+            
+                    background: violet;color: blue;font-size: 10px;display: block; border-radius: 7px;padding: 10px;
+                    text-decoration: none;}
+                    .parr1{ background: violet;color: blue;font-size: 10px;display: block;
+                        border-radius: 7px;padding: 10px;
+                       text-decoration: none; flex-wrap: wrap;}
+                       .parr{color: blue;font-style:oblique;display: block;}
+                    .btn-precio:hover{background: blue;color: violet;font-size: 10px;display: block;
+                         border-radius: 7px;padding: 10px;
+                        text-decoration: none; flex-wrap: wrap;}
+
+
+
+    
+       
